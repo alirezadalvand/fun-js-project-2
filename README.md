@@ -6,3 +6,6 @@ enjoy it :)))
 1- Hovor
 2- typing
 3- send btn
+4- personal web
+5- burgur btn
+6- colorfull text
